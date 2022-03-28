@@ -1,9 +1,9 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chiara!
 ---
 - 🛰 I’m an earth science researcher and GIS solutions engineer interested in remote sensing, regenerative agriculture, and climate mitigation
-- 🌱 I’m currently learning TensorFlow modeling
-- 💞️ I’m looking to collaborate on remote sensing and machine learning projects, web applications, and publications!
-- 📫 How to reach me- DM me on LinkedIn or email me at chiara.m.phillips@gmail.com
+- 🌱 I’m currently learning how to leverage TensorFlow to predict carbon stocks in soils
+- 💞️ I’m looking to collaborate on remote sensing and machine learning projects, web applications, and publications
+- 📫 DM me on LinkedIn or email me at chiara.m.phillips@gmail.com
 
 
 ---
