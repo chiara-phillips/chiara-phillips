@@ -10,9 +10,10 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github.com/chiara-phillips/github-stats/blob/master/generated/overview.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiara-phillips&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Chiara's GitHub stats](https://github.com/chiara-phillips/github-stats/blob/master/generated/languages.svg)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiara-phillips&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!---
