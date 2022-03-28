@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chiara!
 ---
-My mission is to infuse my expertise in remote sensing, machine learning, and geospatial analysis with my superpower for cartographic storytelling to provide actionable insights that can help create a more regenerative and equitable world for generations to come. 🌎✨
+I'm an earth science researcher and GIS solutions engineer on a mission to infuse my expertise in remote sensing, machine learning, and geospatial analysis with my superpower for cartographic storytelling to provide actionable insights that can help create a more regenerative and equitable world for generations to come. 🌎✨
 
 Some of my personal highlights include:
 
@@ -12,7 +12,7 @@ Some of my personal highlights include:
 
 ✅ Piloting a composting program within UCLA's graduate housing complexes and securing funding for program expansion 
 
-Outside of work, you'll find me gardening in my backyard 👩🏻‍🌾, baking pastries from scratch 🧁, or rock climbing at a local crag! 🧗🏻‍♀️
+When I'm not doing all things geospatial, you'll find me gardening in my backyard 👩🏻‍🌾, baking pastries from scratch 🧁, or rock climbing at a local crag! 🧗🏻‍♀️
 
 📲 If you've made it this far, I’d love to chat! Message me on LinkedIn or email me at chiara.m.phillips@gmail.com.
 
