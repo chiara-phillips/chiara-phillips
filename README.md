@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chiara Phillips!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chiara!
 ---
 - 🛰 I’m an earth science researcher and GIS solutions engineer interested in remote sensing, regenerative agriculture, and climate mitigation
 - 🌱 I’m currently learning TensorFlow modeling
