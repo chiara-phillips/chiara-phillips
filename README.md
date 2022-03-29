@@ -5,7 +5,9 @@
 <h4>💻 GIS Solutions Engineer | 📍 Berlin, Germany </h4>
   </div>
 <div align="left">
-I am an Earth science researcher and GIS solutions engineer on a mission to infuse my expertise in remote sensing, machine learning, and geospatial analysis with my superpower for cartographic storytelling to provide actionable insights that can help create a more regenerative and equitable world for generations to come. 🌎✨
+I am an Earth science researcher and GIS solutions engineer on a mission to infuse my expertise in remote sensing, machine learning, and geospatial analysis with my superpower for cartographic storytelling to provide actionable insights that can help create a more regenerative and equitable world for generations to come. 🌎✨ </div>
+
+---
 
 🌱 I'm currently learning how to leverage TensorFlow to monitor carbon sequestration in soils. 
 
