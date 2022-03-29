@@ -7,7 +7,6 @@
 <div align="left">
 I am an Earth science researcher and GIS solutions engineer on a mission to infuse my expertise in remote sensing, machine learning, and geospatial analysis with my superpower for cartographic storytelling to provide actionable insights that can help create a more regenerative and equitable world for generations to come. 🌎✨
 
----
 🌱 I'm currently learning how to leverage TensorFlow to monitor carbon sequestration in soils. 
 
 📝 Let's collaborate on environmental research projects in GEE, web-apps, and research publications!
