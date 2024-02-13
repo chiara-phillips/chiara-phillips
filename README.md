@@ -1,11 +1,9 @@
 
  <h1> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Chiara! </h1>
  
-I am an Earth Science Researcher and GIS Solutions Engineer based in Berlin, Germany. My mission is to infuse my expertise in remote sensing and machine learning with my superpower for cartographic storytelling to provide actionable insights for a more regenerative world for generations to come. 🌎✨ 
+I am a cartographer, Earth Science Researcher and Solutions Engineer based in Berlin, Germany. My mission is to infuse my expertise in remote sensing and machine learning with my superpower for cartographic storytelling to provide actionable insights for a more regenerative world for generations to come. 🌎✨ 
 
-🌱 I'm currently learning how to leverage TensorFlow to monitor carbon sequestration in soils. 
-
-📝 I'd love to collaborate on environmental research projects and web-apps!
+🌱 Day-to-day, I use remote sensing and machine learning to monitor carbon sequestration in soils. 
 
 📲 Feel free to DM me on LinkedIn or email me at chiara.m.phillips@gmail.com to get in touch.
 
